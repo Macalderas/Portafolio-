@@ -1,0 +1,19 @@
+h1{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+html{
+font-size: 10px;
+font-family: monospace;
+
+}
+
+.pantalla{
+ max-width: 375px;
+margin: auto;
+ padding: 24px;
+
+
+}
